@@ -94,7 +94,7 @@ Especifique paso a paso e incluya el código fuente referenciado en README.md.
 - 
 
 ## REFERENCIAS Y BIBLIOGRÁFIA RECOMENDADAS
--   [Sitio oficial del Proyecto Docker][Docker-site]
+-   Sitio oficial del Proyecto Docker: https://www.docker.com/
 -   [Proyecto Moby][Moby-Github]
 -   [Diapositivas "Contenedores de Linux y la nube del futuro" por Rami Rosen][Containers-PDF]
 -   [Docker para un proyecto Joomla-MySQL][Joomla-MySQL]
