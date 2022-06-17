@@ -60,13 +60,31 @@
 
 ## I.		SOLUCIÓN DE EJERCICIOS/PROBLEMAS
 
--  
+Especifique paso a paso e incluya el código fuente referenciado en README.md.
+
+1.  Realice los cambios necesarios para que la imagen que ud creo a partir de un contenedor personalizado se pueda acceder al servidor web desde el equipo anfitríon.
+    ```sh
+    docker run -p 8088:80 mydocker22
+    ```
+2.  Crear dos contenedores que puedan comunicarse: ping ?.?.?.?
+
+3.  Investigar acerca de la ejecución de programas con interfaz gráfica dentro de contenedores Docker.
+
+4.  Desplegar los siguientes ejercicios en contenedores docker:
+    -   JavaScript: Escribir un página que reciba el URL de la sesión de google meet de hoy y devuelva el código de la sesión sin guiones separadores.
+    -   NodeJS: Aplicación web que navegue sobre archivos Markdown.
+    -   Python: Dibujar un tablero de Ajedrez.
+    -   Django: Blog sencillo. 
 
 #
     
 ## II.	SOLUCIÓN DE CUESTIONARIO
 
-- 
+- ¿Qué son los "cgroups" del kernel de Linux? y ¿Qué diferencia más interesante encontró entre las versiones 1 y 2?
+- ¿Qué son los "namespaces" del kernel de Linux? y ¿Cuáles son los tipos de "namespaces"?
+- ¿Qué diferencia puede resaltar entre LXC y libcontainer?
+- Investigue acerca del malware Doki y explique brevemente.
+- ¿Hasta que punto la empresa RedHat se ha comprometido con el proyecto Docker?
 
 #
 
@@ -76,4 +94,9 @@
 - 
 
 ## REFERENCIAS Y BIBLIOGRÁFIA RECOMENDADAS
--   
+-   [Sitio oficial del Proyecto Docker][Docker-site]
+-   [Proyecto Moby][Moby-Github]
+-   [Diapositivas "Contenedores de Linux y la nube del futuro" por Rami Rosen][Containers-PDF]
+-   [Docker para un proyecto Joomla-MySQL][Joomla-MySQL]
+-   [Tutorial de Docker en Youtube][Docker-Tutorial-Youtube]
+-   [Cómo instalar y usar Docker en Ubuntu 20.04][Cómo instalar y usar Docker en Ubuntu 20.04]
