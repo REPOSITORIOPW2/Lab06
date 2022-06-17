@@ -95,8 +95,8 @@ Especifique paso a paso e incluya el código fuente referenciado en README.md.
 
 ## REFERENCIAS Y BIBLIOGRÁFIA RECOMENDADAS
 -   Sitio oficial del Proyecto Docker: https://www.docker.com/
--   [Proyecto Moby][Moby-Github]
--   [Diapositivas "Contenedores de Linux y la nube del futuro" por Rami Rosen][Containers-PDF]
--   [Docker para un proyecto Joomla-MySQL][Joomla-MySQL]
--   [Tutorial de Docker en Youtube][Docker-Tutorial-Youtube]
--   [Cómo instalar y usar Docker en Ubuntu 20.04][Cómo instalar y usar Docker en Ubuntu 20.04]
+-   Proyecto Moby: https://github.com/moby/moby
+-   Diapositivas "Contenedores de Linux y la nube del futuro" por Rami Rosen: http://www.haifux.org/lectures/320/netLec8_final.pdf
+-   Docker para un proyecto Joomla-MySQL: https://dondocker.com/orquestando-contenedores-docker-para-tener-un-joomla-y-un-mysql-en-diferentes-hosts/
+-   Tutorial de Docker en Youtube: https://www.youtube.com/watch?v=VeiUjkiqo9E#t=60
+-   Cómo instalar y usar Docker en Ubuntu 20.04: https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-20-04-es
